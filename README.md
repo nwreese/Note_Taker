@@ -1,5 +1,5 @@
 # Note_Taker
-An application to write, save and delete notes
+An application to write, save and delete notes.
 <br>
 ## Live Link
 Deployed by Heroku
